@@ -1,0 +1,20 @@
+body {
+    background-color:red;
+}
+
+h1.titulo{
+    color:green;
+}
+div p{
+    background: purple;
+}
+h1[class*="r"]{
+    background-color:purple; 
+}
+
+c1>li:nth-child,hover(even){
+    background-color:green;
+}
+div[class="col"]{
+    border:1px solid black;
+}
